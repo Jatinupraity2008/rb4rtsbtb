@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content:space-between;
+}
+
+.header h1{
+    font-size: 50px;
+}
+.menu{
+    padding: 25px;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #000000;
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+body{
+    background-color: rgb(223, 219, 219);
+}
+
+a:link{
+    color: rgb(0, 0, 0);
+}
+
+a:visited{
+    color: rgb(20, 5, 63);
+}
+
